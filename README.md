@@ -14,4 +14,3 @@ This is a Node.js-based API for an e-commerce platform, offering essential featu
 ### Reviews
 - Users can add reviews to specific products.
 
-## Installation
