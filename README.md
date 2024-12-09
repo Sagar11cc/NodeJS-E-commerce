@@ -1,5 +1,5 @@
 # NODEJS E-COMMERCE API
-Ecommerce API - Node.js
+
 This is a Node.js-based API for an e-commerce platform. It provides essential features for user management, product categorization, and reviews.
 
 Key Features
